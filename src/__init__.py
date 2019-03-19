@@ -1,1 +1,1 @@
-from .core import addition
+from .core import addition, soustraction
